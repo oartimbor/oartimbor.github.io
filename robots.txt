@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oartimbor.github.io/sitemap.html.gz
+Sitemap: https://oartimbor.github.io/app/sitemap.html.gz
+Sitemap: https://oartimbor.github.io/assets/sitemap.html.gz
+Sitemap: https://oartimbor.github.io/css/sitemap.html.gz
+Sitemap: https://oartimbor.github.io/includes/sitemap.html.gz
+Sitemap: https://oartimbor.github.io/item/sitemap.html.gz
+Sitemap: https://oartimbor.github.io/src/sitemap.html.gz
